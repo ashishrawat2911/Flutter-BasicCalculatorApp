@@ -54,7 +54,7 @@ class HomePageState extends State<HomePage> {
     return new Scaffold(
       appBar: new AppBar(
         centerTitle: true,
-        title: Text("Calculater"),
+        title: Text("Calculator"),
       ),
       body: new Container(
         padding: EdgeInsets.only(right: 50.0, left: 50.0),
