@@ -1,6 +1,6 @@
 # calculator_app
 
-A new Flutter application.
+A basic calculator for android and ios using flutter.
 
 ## Getting Started
 
